@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Robert Werthman
 # This creates the dashboard specified in the lab1 write-up.
 echo
 echo CPU AND MEMORY RESOURCES--------------------------
